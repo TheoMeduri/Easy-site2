@@ -1,0 +1,76 @@
+body {
+    color: black; 
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    padding: 12px 100px;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    align-content: center;
+}
+
+nav a:hover {
+    color: #4DA2D9;
+}
+
+header h1:hover{
+    color: #4DA2D9;
+    padding: 0px 200px;
+}
+header h2:hover{
+    color: #4DA2D9;
+    padding: 0px 150px;
+}
+
+footer img {
+    width: 40px;
+    height: 40px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 20px;
+}
+
+footer p {
+    margin-top: 2px;
+    text-align: center;
+}
+
+
+footer a:hover {
+    color: #4DA2D9;
+}
+
+.Everyone {
+    padding: 0px 50px;
+}
+
+.Tips {
+    text-align: center;
+}
+
+.Tips1 {
+    text-align: center;
+}
+
+
+haeder img {
+    text-align: right;
+    text-align: justify;
+}
+
+
